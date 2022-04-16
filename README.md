@@ -7,8 +7,11 @@ using the software Gephi.
 The different communities were identified and interpretations were made at the end of the projects.
 
 **Dolphin data set**- the interpretations were made regarding which dolphins communicated the most with others and what communities were more interrelated.
+![Dolphin](https://user-images.githubusercontent.com/87074907/163665425-fe532b28-16e0-4018-89c9-f1024f9390ed.png)
+
 
 **Github dataset**- the github social network consists of the developers using and not using the machine learning algorithms. 
 we can further interpret what developers are working only in machine learning an who are working on other topics as well. Apart from that we can see that 
 even the developers only using ml codes and those not using ml codes at all are following each other indicating the increase in ML usage such that people 
 from coding backgroung and even those not from coding background are leaning towards ML.
+![Github](https://user-images.githubusercontent.com/87074907/163665434-261062a5-fc4f-4a4a-b9ce-649f23ce1eef.png)
